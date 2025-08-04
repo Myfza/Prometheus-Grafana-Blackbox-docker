@@ -110,7 +110,7 @@ docker compose down -v  # Also removes named volumes
 ## 🧑‍💻 Author
 
 **Muhammad Yusuf Aditiya**  
-🔗 [LinkedIn](https://www.linkedin.com/in/muhammadyusufaditiya)  
+🔗 [LinkedIn](https://www.linkedin.com/in/myfza)  
 💻 Open-source enthusiast | Full Stack Automation & Industrial Tech Developer  
 
 ---
