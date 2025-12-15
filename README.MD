@@ -102,7 +102,7 @@ pip install prometheus-api-client pandas matplotlib seaborn jupyter
 ## 🧹 Tear Down
 
 ```bash
-docker compose down -v  # Also removes named volumes
+docker compose down -v 
 ```
 
 ---
